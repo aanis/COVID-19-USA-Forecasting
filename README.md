@@ -48,7 +48,8 @@ ___
 * Google Colaboratory
 * Jupyter Notebook
 ___
-Credit: [JCharis Jesse](https://github.com/Jcharis)
+
+Credit: [JCharis Jesse](https://github.com/Jcharis) for the FB Prophet Tutorial
  
 
   
