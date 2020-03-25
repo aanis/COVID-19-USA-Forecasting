@@ -39,9 +39,15 @@ The major dependency that Prophet has is pystan. PyStan has its [own installatio
 ### Code Compatibility
 ___
 
-* Google Colab
 * Python 3.0
 * Prophet Version 0.6 (2020.03.03)
+
+### GUI Compatibility
+
+* Google Colaboratory
+* Jupyter Notebook
+
+
  
 
   
