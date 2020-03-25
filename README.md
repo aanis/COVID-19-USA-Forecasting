@@ -43,6 +43,7 @@ ___
 * Prophet Version 0.6 (2020.03.03)
 
 ### GUI Compatibility
+___
 
 * Google Colaboratory
 * Jupyter Notebook
