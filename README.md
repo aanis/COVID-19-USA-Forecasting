@@ -1,3 +1,5 @@
+[](https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png)
+
 ### Introduction
 ___
 
