@@ -31,3 +31,7 @@ Google Colab
 Python 3.0
 
 Version 0.6 (2020.03.03)
+
+### Credit
+
+Thanks to @Jcharis for sharing repo
