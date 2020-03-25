@@ -35,6 +35,6 @@ Version 0.6 (2020.03.03)
 ### Credit
 ___
 
-Thanks to [JCharis Jesse](https://github.com/Jcharis) for generously sharing his repo.
+Thanks to [JCharis Jesse](https://github.com/Jcharis)  
 
   
