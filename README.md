@@ -15,7 +15,7 @@ ___
 
 * [Time Series Data:Confirmed, Recovered and Deaths](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 
-# Data Format
+### Data Format
 
 * Time: MM-DD-YYYY.csv in UTC.
 *  Province/State: China - province name; US/Canada/Australia/ - city name, state/province name; Others - name of the event (e.g., "Diamond Princess" cruise ship); other countries - blank.
