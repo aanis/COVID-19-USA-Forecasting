@@ -34,10 +34,6 @@ Google Colab
 Python 3.0
 
 Version 0.6 (2020.03.03)
-
-### Credit
-___
-
-Thanks to [JCharis Jesse](https://github.com/Jcharis) for the FB Prophet tutorial 
+ 
 
   
