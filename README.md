@@ -1,4 +1,4 @@
-![](https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png)
+![](https://miro.medium.com/max/482/0*tVCene42rgUTNv9Q.png)
 
 ### Introduction
 ___
