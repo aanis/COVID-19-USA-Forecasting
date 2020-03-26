@@ -1,4 +1,4 @@
-# COVID-19 USA Time Series Forecasting Using Facebook Prophet
+# COVID-19 USA Time Series Forecasting  
 
 ![](https://cdn-images-1.medium.com/max/800/1*pVvHziu_jDLr_I179JeWlw.png)
  
